@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h3 align="center">Passionate full-stack developer based in the Philippines.</h3>
 
 ###
 
