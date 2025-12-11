@@ -1,16 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:FF6347&height=200&section=header&text=Andrei%20Miñoza&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:00d4ff,100:7F00FF&height=200&section=header&text=Andrei%20Miñoza&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Andrei+Mi%C3%B1oza;Full-Stack+Developer;Aspiring+Cybersecurity+Engineer;Ethical+Hacker+%7C+Pentester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Andrei+Mi%C3%B1oza;Full-Stack+Developer;Aspiring+Cybersecurity+Engineer;Ethical+Hacker+%7C+Pentester" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Full-Stack Developer & Cybersecurity Enthusiast from the Philippines</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsMeRioooo&label=Profile%20Views&color=dc143c&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ItsMeRioooo?label=Followers&style=flat-square&color=dc143c" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=ItsMeRioooo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ItsMeRioooo?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ const rio = {
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMeRioooo&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMeRioooo&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00d9ff&line=7F00FF&point=00d9ff" alt="Activity Graph" />
 </div>
 
 ### 🌐 Connect With Me
@@ -147,13 +147,13 @@ const rio = {
 ### 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:FF6347&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:00d4ff,100:7F00FF&height=100&section=footer" alt="footer" />
 </div>
 
 <div align="center">
