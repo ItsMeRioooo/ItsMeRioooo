@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Andrei+Mi%C3%B1oza;Full-Stack+Developer;Aspiring+Cybersecurity+Engineer;Ethical+Hacker+%7C+Pentester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Andrei+Mi%C3%B1oza;Full-Stack+Developer;Aspiring+Cybersecurity+Engineer;Ethical+Hacker+%7C+Pentester" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Full-Stack Developer & Cybersecurity Enthusiast from the Philippines</h3>
@@ -112,27 +112,8 @@ const rio = {
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsMeRioooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=10" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsMeRioooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMeRioooo&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeRioooo&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMeRioooo&theme=tokyo-night&hide_border=true&border_radius=10" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsMeRioooo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 🌐 Connect With Me
 
