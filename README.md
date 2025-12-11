@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Andrei%20Miñoza&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Andrei+Mi%C3%B1oza;Full-Stack+Developer;Aspiring+Cybersecurity+Engineer;Ethical+Hacker+%7C+Pentester" alt="Typing SVG" />
 </div>
 
